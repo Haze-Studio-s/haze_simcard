@@ -1,0 +1,11 @@
+# Backups soltos e arquivos temporários
+*.rar
+*.zip
+*.7z
+*.bak
+*.tmp
+*.log
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
